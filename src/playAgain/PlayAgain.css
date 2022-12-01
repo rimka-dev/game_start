@@ -1,0 +1,23 @@
+.playAgain{
+    text-align: center;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    
+}
+
+.btnPlay{
+  margin: 0 auto;
+  width: 50%;
+  padding: 8px;
+  color: rgb(244, 238, 238);
+  font-weight: bold;
+  border: 1px solid #969492;
+  border-radius: 8px;
+  box-shadow: 5px 5px 15px -4px #000000;
+  background-color: rgb(87, 148, 234);
+}
+.btnPlay:hover{
+  color: rgb(20, 121, 85);
+}
